@@ -45,6 +45,7 @@ class App extends Component {
           <br/>
         </div>
         <Todos todos={this.state.todos} deleteTodo={this.deleteTodo} />
+        <br/>
         <AddTodo addTodo={this.addTodo} />
       </div>
     );

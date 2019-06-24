@@ -27,8 +27,11 @@ class AddTodo extends Component {
         return (
             <div>
                 <form onSubmit={this.handleSubmit}>
-                    <label>Add new todo:</label>
-                    <input type="text" onChange={this.handleChange} value={this.state.content}/>
+                    <div className="input-field col s12">
+                        <i className="material-icons prefix">add_circle_outline</i>
+                        <input type="text" name="new-todo" id="new-todo" onChange={this.handleChange} value={this.state.content} className="autocomplete"/>
+                        <label for="new-todo">Add new todo:</label>
+                    </div>                    
                 </form>
             </div>
         )
