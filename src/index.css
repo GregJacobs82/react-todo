@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.collection-item {
+  cursor: grab;
+  transition: all 300ms ease-in-out;
+}
+.collection-item:hover {
+  background: pink;
+  transition: all 150ms ease-in-out;
+}
