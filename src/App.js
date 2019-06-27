@@ -7,7 +7,8 @@ class App extends Component {
   state = {
     todos: [
       { id: 1, content: 'buy some milk'  },
-      { id: 2, content: 'learn advanced react js' }
+      { id: 2, content: 'build the same app in 2 languages: React vs. Vue' },
+      { id: 3, content: 'learn advanced react js' }
     ]
   }
 
