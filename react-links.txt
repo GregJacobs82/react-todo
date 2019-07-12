@@ -1,0 +1,27 @@
+
+https://medium.com/@vigowebs/frequently-asked-react-js-interview-questions-and-answers-36f3dd99f486
+
+
+
+
+https://reactjs.org/community/courses.html
+
+https://www.freecodecamp.org/news/portfolio-app-using-react-618814e35843/
+
+https://www.valentinog.com/blog/redux/
+
+
+
+
+REACT ROUTER:
+https://scotch.io/tutorials/routing-react-apps-the-complete-guide
+
+https://codeburst.io/getting-started-with-react-router-5c978f70df91
+
+https://blog.pshrmn.com/simple-react-router-v4-tutorial/
+
+
+
+
+NETNINJA
+https://www.youtube.com/watch?v=QUz3k2O3ZJU&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=25
